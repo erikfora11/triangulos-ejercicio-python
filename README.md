@@ -2,4 +2,4 @@
 
 Esta es una tarea para mi clase de programacion I
 lenguaje:
-![python-logo-wiki](https://es.wikipedia.org/wiki/Archivo:Python-logo-notext.svg)
+![python-logo-wiki](https://www.python.org/static/community_logos/python-powered-h-50x65.png)
